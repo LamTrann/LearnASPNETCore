@@ -1,6 +1,8 @@
+using ASPNETInfrastructure.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -24,6 +26,8 @@ namespace ASPNETStartUp
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+
+            services.AddDbContext<NETContext>(options => options.UseSqlServer("Server=.;Database=NET;Integrated Security = true"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

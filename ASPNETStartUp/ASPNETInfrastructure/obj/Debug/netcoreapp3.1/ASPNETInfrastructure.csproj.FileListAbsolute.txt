@@ -1,0 +1,13 @@
+D:\github\LearnASPNETCore\LearnASPNETCore\ASPNETStartUp\ASPNETInfrastructure\bin\Debug\netcoreapp3.1\ASPNETInfrastructure.deps.json
+D:\github\LearnASPNETCore\LearnASPNETCore\ASPNETStartUp\ASPNETInfrastructure\bin\Debug\netcoreapp3.1\ASPNETInfrastructure.dll
+D:\github\LearnASPNETCore\LearnASPNETCore\ASPNETStartUp\ASPNETInfrastructure\bin\Debug\netcoreapp3.1\ASPNETInfrastructure.pdb
+D:\github\LearnASPNETCore\LearnASPNETCore\ASPNETStartUp\ASPNETInfrastructure\obj\Debug\netcoreapp3.1\ASPNETInfrastructure.csproj.AssemblyReference.cache
+D:\github\LearnASPNETCore\LearnASPNETCore\ASPNETStartUp\ASPNETInfrastructure\obj\Debug\netcoreapp3.1\ASPNETInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\LearnASPNETCore\LearnASPNETCore\ASPNETStartUp\ASPNETInfrastructure\obj\Debug\netcoreapp3.1\ASPNETInfrastructure.AssemblyInfoInputs.cache
+D:\github\LearnASPNETCore\LearnASPNETCore\ASPNETStartUp\ASPNETInfrastructure\obj\Debug\netcoreapp3.1\ASPNETInfrastructure.AssemblyInfo.cs
+D:\github\LearnASPNETCore\LearnASPNETCore\ASPNETStartUp\ASPNETInfrastructure\obj\Debug\netcoreapp3.1\ASPNETInfrastructure.csproj.CoreCompileInputs.cache
+D:\github\LearnASPNETCore\LearnASPNETCore\ASPNETStartUp\ASPNETInfrastructure\obj\Debug\netcoreapp3.1\ASPNETInfrastructure.dll
+D:\github\LearnASPNETCore\LearnASPNETCore\ASPNETStartUp\ASPNETInfrastructure\obj\Debug\netcoreapp3.1\ASPNETInfrastructure.pdb
+D:\github\LearnASPNETCore\LearnASPNETCore\ASPNETStartUp\ASPNETInfrastructure\bin\Debug\netcoreapp3.1\ASPNETInfrastructure.runtimeconfig.json
+D:\github\LearnASPNETCore\LearnASPNETCore\ASPNETStartUp\ASPNETInfrastructure\bin\Debug\netcoreapp3.1\ASPNETInfrastructure.runtimeconfig.dev.json
+D:\github\LearnASPNETCore\LearnASPNETCore\ASPNETStartUp\ASPNETInfrastructure\obj\Debug\netcoreapp3.1\ASPNETInfrastructure.genruntimeconfig.cache
